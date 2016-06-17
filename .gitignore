@@ -1,0 +1,6 @@
+.env
+*.pyc
+*.pyo
+*.swp
+.idea
+
